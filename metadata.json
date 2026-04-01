@@ -1,0 +1,5 @@
+{
+  "name": "Github Code Explanation",
+  "description": "A web application to generate tutorials for codebases using AI. It fetches code, identifies abstractions, analyzes relationships, and writes chapters to explain the codebase.",
+  "requestFramePermissions": []
+}
